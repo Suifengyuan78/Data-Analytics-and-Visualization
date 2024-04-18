@@ -40,3 +40,4 @@ Use this data model to identify which datasets will be required - “Reaction”
 - PowerBI Service
 
 ## Final Reports
+![image](https://github.com/Suifengyuan78/Social-Buzz/assets/167149285/7c3be938-13d5-42e9-b00c-12de6c34ff3c)
