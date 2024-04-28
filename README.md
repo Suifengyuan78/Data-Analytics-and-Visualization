@@ -1,5 +1,8 @@
 
-#                                Social-Buzz
+#                                Data Analytics and Visualization
+
+#### Company: <img width="82" alt="image" src="https://github.com/Suifengyuan78/Social-Buzz/assets/167149285/a79f4213-247e-4e1a-8c2f-06753737e2c9"> [About Accenture](https://www.accenture.com/us-en/about/company/united-states)
+
 
 ## Task: The popularity analysis for Social Buzz
  Identifies the top user preferences, particularly the top 5 categories with the highest aggregate popularity, informing content strategies for optimal user engagement.
